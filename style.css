@@ -1,0 +1,258 @@
+*{
+  padding: 0;
+  box-sizing: border-box;
+  background-color: rgb(0, 0, 0);
+}
+.navbar{
+  display: flex;
+gap: 500px;
+}
+.search{
+  display: flex;
+  gap: 20px;
+  
+  color: #fff;
+}
+.yutbb{
+  position: relative;
+  left: 30px;
+  bottom: 50px;
+}
+.serch{
+  width: 400px;
+  height: 50px;
+  background-color: #fff;
+}
+.imgg2{
+  width: 60px;
+  height: 50px;
+  position: relative;
+  right: 10px;
+}
+input{
+  background-color: slategrey;
+}
+.yuutb{
+  position: relative;
+  left: 186px;
+  top: 80px;
+}
+.text{
+  color: azure;
+ position: relative;
+ top: 80px;
+ left: 186px;
+}
+h3{
+  color: azure;
+}
+
+.xxx{
+  color: dimgrey;
+  position: relative;
+  top: 85px;
+  left: 186px;
+}
+.teg{
+ display: flex;
+ gap: 40px;
+ position: relative;
+ top: 20px;
+ left: 386px;
+ 
+}
+.aa{
+  display: flex;
+  
+}
+.bb{
+  display: flex;
+}
+.dd{
+  display: flex;
+}
+.vv{
+  display: flex;
+}
+
+.haw{
+color: dimgray;
+position: relative;
+top: 20px;
+right: 120px;
+}
+.avatar{
+ display: flex;
+  gap: 10px;
+  position: relative;
+  top: 20px;
+  left: 186px;
+}
+.subj{
+  position: relative;
+  left: 200px;
+  width: 116px;
+  height: 36px;
+  background-color: red;
+  padding-left: 10px;
+  border-radius: 5px;
+ text-align: center;
+}
+.conte{
+  color: grey;
+  position: relative;
+  top: 12px;
+  left: 186px;
+}
+.tegg{
+  color: grey;
+  position: relative;
+  left: 186px;
+}
+.btn1:hover{
+color: red
+}
+.teg2{
+  display: flex;
+ gap: 40px;
+ position: relative;
+ left: 186px;
+}
+.btn98{
+  width: 32;
+  height: 24;
+}
+.pless{
+  color: dimgray;
+  position: relative;
+  top: 10px;
+}
+.avatarr{
+  display: flex;
+  position: relative;
+  left: 186px;
+  
+}
+.ww{
+  border-radius: 50px;
+}
+.hh{
+  color: #ffffffbb;
+}
+.jj{
+  color: #837d6f44;
+}
+.hhh{
+  color: aliceblue;
+  position: relative;
+  top: 20px;
+  right: 160px;
+}
+.teg3{
+  display: flex;
+  position: relative;
+  left: 186px;
+  gap:10px ;
+  top: 10px;
+}
+.imgca{
+  display: flex;
+ position: relative;
+ left: 186px;
+ gap: 40px;
+
+
+}
+.rasmava{
+  border-radius: 50px;
+}
+.uu{
+  color: gray;
+}
+.avatar3{
+  display: flex;
+  position: relative;
+  left: 186px;
+  top: 10px;
+
+  gap: 10px;
+}
+.avaz{
+  border-radius: 50px;
+}
+.ava{
+  color: #fff;
+  display: flex;
+}
+.h6i{
+  color: dimgrey;
+  ga
+}
+.avatex{
+ color: #fff;
+ position: relative;
+ top: 20px;
+ right: 130px;
+}
+.sarlavha{
+  display: flex;
+  gap: 30px;
+ 
+}
+
+.sarlavha1{
+  background-color: #fff;
+  color: black;
+  width: 40px;
+  border-radius: 10px;
+  transition: 3s;
+}
+.sarlavha1:hover{
+background-color: blue;
+transform: scale(1.1);
+}
+.sarlavha2{
+  background-color: dimgray;
+  width: 183px;
+  height: 20px;
+  border-radius: 10px;
+  padding-left: 20px;
+  transition: 3s;
+}
+.sarlavha2:hover{
+  background-color: navy;
+  transform: scale(1.1);
+}
+.htext{
+  color:dimgray;
+  
+}
+.hte{
+  color: dimgray;
+}
+.yuto{
+  display: flex;
+  transition: 3s;
+}
+.hhhh{
+  position: relative;
+  bottom: 20px;
+  gap: 10px;
+  left: 10px;
+}
+.htext{
+  position: relative;
+  top: 20px;
+  right: 170px;
+}
+.hte{
+  position: relative;
+  top: 35px;
+  right: 228px;
+}
+.qator{
+  position: relative;
+  left: 950px;
+  bottom: 950px;
+  
+}
